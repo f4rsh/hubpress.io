@@ -3,16 +3,16 @@
     "username": "f4rsh",
     "repositoryName": "hubpress.io",
     "branch": "master",
-    "cname": "www.qfoods.qa"
+    "cname": "qfoods.qa"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "http://www.qfoods.qa",
+    "site": "http://qfoods.qa",
     "hubpress": "http://www.qfoods.qa",
-    "theme": "//www.qfoods.qa/themes/casper",
-    "images": "http://www.qfoods.qa/images"
+    "theme": "//qfoods.qa/themes/casper",
+    "images": "http://qfoods.qa/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
