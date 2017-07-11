@@ -2,7 +2,7 @@
   "meta": {
     "username": "f4rsh",
     "repositoryName": "hubpress.io",
-    "branch": "gh-pages",
+    "branch": "master",
     "cname": "www.qfoods.qa"
   },
   "theme": {
@@ -24,27 +24,5 @@
       null
     ],
     "_Ctor": {}
-  },
-  "site": {
-    "title": "qfoods",
-    "description": "",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "",
-    "googleAnalytics": "",
-    "disqus": ""
-  },
-  "socialnetwork": {
-    "email": "",
-    "github": "",
-    "twitter": "",
-    "facebook": "",
-    "googleplus": "",
-    "instagram": "",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "",
-    "stackoverflow": ""
   }
 }
